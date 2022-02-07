@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m a Full Stack Software Engineer that recently attended App Academy
+- 🌱 I’m currently learning JavaScript, Python, CSS, React.js, Redux.js
+- 👯 I’m looking to collaborate on any projects related to video games
+- 💬 Ask me about anything!
+- 📫 How to reach me: nbern817@gmail.com
 
 <!--
 **Bsnernier/Bsnernier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
